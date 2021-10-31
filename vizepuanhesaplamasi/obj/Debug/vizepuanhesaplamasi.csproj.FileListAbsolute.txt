@@ -1,0 +1,7 @@
+C:\Users\Hp\Desktop\Mustafa\visualstudio\csharpconsole\vizepuanhesaplamasi\vizepuanhesaplamasi\bin\Debug\vizepuanhesaplamasi.exe.config
+C:\Users\Hp\Desktop\Mustafa\visualstudio\csharpconsole\vizepuanhesaplamasi\vizepuanhesaplamasi\bin\Debug\vizepuanhesaplamasi.exe
+C:\Users\Hp\Desktop\Mustafa\visualstudio\csharpconsole\vizepuanhesaplamasi\vizepuanhesaplamasi\bin\Debug\vizepuanhesaplamasi.pdb
+C:\Users\Hp\Desktop\Mustafa\visualstudio\csharpconsole\vizepuanhesaplamasi\vizepuanhesaplamasi\obj\Debug\vizepuanhesaplamasi.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Mustafa\visualstudio\csharpconsole\vizepuanhesaplamasi\vizepuanhesaplamasi\obj\Debug\vizepuanhesaplamasi.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Mustafa\visualstudio\csharpconsole\vizepuanhesaplamasi\vizepuanhesaplamasi\obj\Debug\vizepuanhesaplamasi.exe
+C:\Users\Hp\Desktop\Mustafa\visualstudio\csharpconsole\vizepuanhesaplamasi\vizepuanhesaplamasi\obj\Debug\vizepuanhesaplamasi.pdb
