@@ -20,8 +20,9 @@ namespace vizepuanhesaplamasi
             Console.WriteLine("Final notunuzu giriniz");
             final = Convert.ToInt32(Console.ReadLine());
             //Vizeler toplam puanımızın %40ını,Final ise %60ını oluşturur.
-            vizelersonhali = (vize1 + vize2) * 40 / 100;
+            vizelersonhali = (vize1 + vize2) /2 * 40 / 100;
             finalsonhali = final * 60 / 100;
+            //* 0.4 + final * 0.6
             anatoplam = vizelersonhali + finalsonhali;
             //durumlarımıza şart koyuyoruz
             if (anatoplam >= 50)
